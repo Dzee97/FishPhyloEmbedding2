@@ -2,3 +2,5 @@
 /datasets
 /output
 *.npy
+*.pt
+*.csv
