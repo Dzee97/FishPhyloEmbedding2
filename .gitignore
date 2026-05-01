@@ -4,3 +4,4 @@
 *.npy
 *.pt
 *.csv
+__pycache__
