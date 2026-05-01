@@ -1,3 +1,17 @@
 /.venv
 /datasets
 /output
+*.ipynb_checkpoints
+*.pkl
+*.pt
+*.pth
+*.ptl
+*.pthl
+*.pthl
+*.pthl
+*.pthl
+*.pthl
+*.pthl
+*.pthl
+*.DS_Store
+*.db
